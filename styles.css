@@ -56,7 +56,7 @@
 button{
     margin: 1px;
     border: none;
-    font-size: 10px;
+    font-size: 15px;
 }
 button:hover{
     transform: scale(0.97);
